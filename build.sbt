@@ -1,4 +1,4 @@
-name := "SparkFreindsAge"
+name := "SparkFriendsAge"
 
 version := "0.1"
 
